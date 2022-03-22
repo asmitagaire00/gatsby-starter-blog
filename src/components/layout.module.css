@@ -1,0 +1,29 @@
+.container {
+  margin: auto;
+  max-width: 500px;
+  border: 1px solid;
+}
+
+.navList {
+  list-style: none;
+  display: flex;
+  padding-left: 0;
+}
+
+.navLink {
+  padding-right: 2rem;
+}
+
+.navItem {
+  color: black;
+}
+
+.heading {
+  color: navy;
+}
+
+.siteTitle {
+  font-size: 3rem;
+  font-family: monospace;
+  font-weight: 600;
+}
